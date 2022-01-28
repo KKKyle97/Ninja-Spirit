@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - DeadZone
+  - Obstacle
+  - Weapon
+  - hand
+  - Music
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Platform
+  - Player
+  - Enemy
+  - Obstacle
+  - Dot
+  - Diagram
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2252868439
+    locked: 0
+  - name: Obstacle
+    uniqueID: 4065111985
+    locked: 0
+  - name: Platform
+    uniqueID: 2689409027
+    locked: 0
+  - name: Player
+    uniqueID: 4031515291
+    locked: 0
+  - name: UI
+    uniqueID: 3655206151
+    locked: 0
+  - name: Diagram
+    uniqueID: 1642248357
+    locked: 0
+  - name: Dot
+    uniqueID: 895638797
+    locked: 0
